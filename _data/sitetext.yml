@@ -60,7 +60,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Moodswings In This Order"
         year: "2021년 3월 12일"
-        desc: "2021년 3월 12일에 발매된 DPR IAN의 첫EP. <br> DPR IAN의 감성을 모두 녹여낸 앨범 <br> 실제 독특한 재질과 컨셉을 살린 앨범"
+        desc: "2021년 3월 12일에 발매된 DPR IAN의 첫EP. <br> DPR IAN의 감성을 모두 녹여낸 앨범"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
