@@ -126,12 +126,12 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact YeoJuHo"
+    text: " "
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "duwngh85039@gmail.com"
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
