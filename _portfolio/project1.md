@@ -1,6 +1,6 @@
 ---
 title: IS ANYBODY OUT THERE?
-subtitle: 
+subtitle: DPR LIVE 
 image: assets/img/clients/2.jpg
 alt: Shirts on a hanger
 
