@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "VISUALS"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "BUYING ALBUM."
     section: VISUALS
     closebutton: "Close Project"
 
