@@ -19,12 +19,12 @@ baseurl: /blog # the subpath of your site, e.g. /blog
 title      : duwngh850's blog
 email      : duwngh850@naver.com #this is also the email contact forms will go to
 description: Try to use Git / Github
-author     : Your Name
+author     : Yeo juho
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
-locale: "ko-kr" # See available languages in _data/sitetext.yml
+locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
   google: #Google Analytics tracking code here
