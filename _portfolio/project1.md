@@ -6,9 +6,9 @@ alt: Shirts on a hanger
 
 caption:
   title: DPR LIVE - IS ANYBODY OUT THERE?
-  subtitle: "tracklist <br> S.O.S (Title) <br> KISS ME (Title) <br> NEON (Title) <br> LEGACY (Title) <br> HERE GOES NO THING <br> GERONIMO <br> TO WHOEVER <br> OUT OF CONTROL <br> 
+  subtitle: "Tracklist <br> S.O.S (Title) <br> KISS ME (Title) <br> NEON (Title) <br> LEGACY (Title) <br> HERE GOES NO THING <br> GERONIMO <br> TO WHOEVER <br> OUT OF CONTROL <br> 
           DISCONNECT <br> OH GIRL <br> NO RESCUE NEEDED"
-  thumbnail: assets/img/clients/2.jpg
+  thumbnail: assets/img/clients/2.jpg 
 
 ---
 
