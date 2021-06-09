@@ -21,8 +21,9 @@ en: &DEFAULT_EN
     text: I dream perfect regime(dpr)is a multi-genre music and video group. we create, direct, and edit all types of visual work as well as curate artists that derive from
           various musical backgrounds and unfluences, based in seoul, our collective;s main focus is to engage all audiences by actualizing a distinctive audiovusual
           experience
-    text: dpr은 다중 장르 음악 및 비디오 그룹입니다. 우리는 다양한 음악적 배경과 영향에서 파생된 큐레이트 아티스트뿐만 아니라 모든 유형의 비주얼 작업을 만들고, 감독하고, 제작하고
-          편집합니다. 서울을 기반으로 한 우리는 주요 초점은 독특한 시청각 경험을 활성화하여 모든 청중을 참여 시키는 것입니다.
+    list:
+      - text: dpr은 다중 장르 음악 및 비디오 그룹입니다. 우리는 다양한 음악적 배경과 영향에서 파생된 큐레이트 아티스트뿐만 아니라 모든 유형의 비주얼 작업을 만들고, 감독하고, 제작하고
+              편집합니다. 서울을 기반으로 한 우리는 주요 초점은 독특한 시청각 경험을 활성화하여 모든 청중을 참여 시키는 것입니다.
 
     section: ABOUT #네비게이션 이동 위치
     
