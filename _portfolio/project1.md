@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: DPR LIVE - IS ANYBODY OUT THERE?
+subtitle: "tracklist <br> S.O.S (Title) <br> KISS ME (Title) <br> NEON (Title) <br> LEGACY (Title) <br> HERE GOES NO THING <br> GERONIMO <br> TO WHOEVER <br> OUT OF CONTROL <br> 
+          DISCONNECT <br> OH GIRL <br> NO RESCUE NEEDED"
 image: assets/img/clients/2.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: IS ANYBODY OUT THERE?
+  subtitle: DPR LIVE
   thumbnail: assets/img/clients/2.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Musician : DPR LIVE 
+- Purchase Date : 2020년 3월 5일 
+- Contents : 첫 정규 어느하나 뺴놓을게 없는 트랙리스트
 
