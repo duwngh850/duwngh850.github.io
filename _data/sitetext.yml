@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to DPR GALLERY!
     text: DPR      Dream◂Perfect▸Regime
-    button: Tell Me More
-    buttonlink: "#services"
+    button: DPR We Gang Gang
+    buttonlink: "#ABOUT"
 
   services:
     title: "ABOUT"
@@ -22,10 +22,9 @@ en: &DEFAULT_EN
           various musical backgrounds and unfluences, based in seoul, our collective;s main focus is to engage all audiences by actualizing a distinctive audiovusual
           experience
     section: ABOUT
-    list: 
-      - text: I dream perfect regime(dpr)is a multi-genre music and video group. we create, direct, and edit all types of visual work as well as curate artists that derive from
-              various musical backgrounds and unfluences, based in seoul, our collective;s main focus is to engage all audiences by actualizing a distinctive audiovusual
-              experience
+    text: I dream perfect regime(dpr)is a multi-genre music and video group. we create, direct, and edit all types of visual work as well as curate artists that derive from
+          various musical backgrounds and unfluences, based in seoul, our collective;s main focus is to engage all audiences by actualizing a distinctive audiovusual
+          experience
 
   portfolio:
     title: "Portfolio"
