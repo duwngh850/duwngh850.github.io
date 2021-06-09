@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome to DPR GALLERY!
     text: DPR      Dream◂Perfect▸Regime
-    button: DPR We Gang Gang
+    button: "20161575 여주호 <br> DPR We Gang Gang"
     buttonlink: "#ABOUT"
 
   services:
