@@ -32,7 +32,7 @@ en: &DEFAULT_EN
     title: "VISUALS"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: VISUALS
-    #closebutton: "Close Project"
+    closebutton: "Close Project"
 
   timeline:
     title: "MUSIC"
