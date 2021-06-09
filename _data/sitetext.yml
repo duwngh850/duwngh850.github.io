@@ -32,7 +32,7 @@ en: &DEFAULT_EN
     title: "VISUALS"
     text: "SHOW BUYING ALBUM"
     section: VISUALS
-    closebutton: "Close Project"
+    closebutton: "Close"  
 
   timeline:
     title: "MUSIC"
