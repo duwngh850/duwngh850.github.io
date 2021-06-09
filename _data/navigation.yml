@@ -13,12 +13,12 @@ en: &DEFAULT_EN
   nav:
     - title: "ABOUT"
       section: ABOUT
-    - title: "Portfolio"
-      section: portfolio
-    - title: "Aboutt"
+    - title: "VISUALS"
+      section: VISUALS
+    - title: "MUSIC"
       section: timeline
-    - title: "Team"
-      section: team
+    - title: "CREATIVES"
+      section: CREATIVES
     - title: "Contact"
       section: contact
     - title: "Theme Source"
