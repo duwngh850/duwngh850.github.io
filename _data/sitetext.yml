@@ -63,7 +63,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "<br> Who's <br> Next?"  
+    end: "Creative <br> Who's <br> Next?"  
 
   about:
     title: "About Us"
