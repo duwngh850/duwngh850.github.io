@@ -1,5 +1,5 @@
 ---
-caption: what displays in the portfolio grid:
+caption: #what displays in the portfolio grid:
   title: DPR LIVE - HER
   subtitle: "tracklist <br> Your Name? (Intro) <br> Jasmine <br> Text Me <br> Is You Down <br> Martini Blue (title)"
   thumbnail: assets/img/clients/1.jpg
