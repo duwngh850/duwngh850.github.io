@@ -45,27 +45,27 @@ en: &DEFAULT_EN
     events:
       - title: "Coming To You Live"
         year: "2017.03.15"
-        desc: "2017년 최고 루키의 등장 2017년 3월 15일에 발매한 DPR LIVE의 첫 EP 1000장 한정판으로 발매되었다."
+        desc: "2017년 최고 루키의 등장 <br> 2017년 3월 15일에 발매한 DPR LIVE의 첫 EP <br> 1000장 한정판으로 발매되었다."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
+      - title: "Her"
         year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "DPR LIVE가 두번째로 발매한 EP <br> 2017년 12월 7일 발매되었다. <br> 필자의 취향이 가득 담긴 트랙리스트로 구성되어있다."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "IS ANYBODY OUT THERE?"
+        year: "2020년 3월 3일"
+        desc: "2020년 3월 3일에 발매된 DPR LIVE의 첫 정규 앨범. <br> 우주를 테마로한 영상미가 돋보인다."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Moodswings In This Order"
+        year: "2021년 3월 12일"
+        desc: "2021년 3월 12일에 발매된 DPR IAN의 첫EP. <br> DPR IAN의 감성을 모두 녹여낸 앨범 <br> 실제 독특한 재질과 컨셉을 살린 앨범"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Dream <br> Perfect <br> Regime"
 
   about:
     title: "About Us"
