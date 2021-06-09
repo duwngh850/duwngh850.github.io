@@ -1,18 +1,16 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: DPR IAN - Moodswings In This Order 
+subtitle: "tracklist <br> Nerves (Title) <br> Scaredy Cat (Title) <br> MITO <br> So Beautiful <br> Dope Lovers <br> No Blueberries (Feat. DPRLIVE, CL) <br> Welcome To The Show <br> No Silhouette
 image: assets/img/clients/3.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Moodswings In This Oreder
+  subtitle: DPR IAN
   thumbnail: assets/img/clients/3.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+- Musician : DPR IAN
+- Purchase Date : 2021년 3월 24일 
+- Contents : DPR IAN을 알게해준 명반
