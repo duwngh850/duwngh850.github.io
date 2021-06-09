@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     - title: "MUSIC"
       section: timeline
     - title: "CREATIVES"
-      section: CREATIVES
+      section: team
     - title: "Contact"
       section: contact
     - title: "Theme Source"
