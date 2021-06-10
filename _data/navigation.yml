@@ -17,7 +17,7 @@ en: &DEFAULT_EN
       section: VISUALS
     - title: "MUSIC"
       section: timeline
-    - title: "CREATIVES"
+    - title: "CREATORS"
       section: team
     - title: "Contact"
       section: contact
