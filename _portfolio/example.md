@@ -2,7 +2,7 @@
 caption: #what displays in the portfolio grid:
   title: DPR LIVE - HER
   subtitle: "Tracklist <br> Your Name? (Intro) <br> Martini Blue (Title) <br> Jasmine <br> Text Me <br> Is You Down" 
-  thumbnail: assets/img/clients/1.jpg
+  thumbnail: assets/img/portfolio/04-thumbnail.jpg
   
 #what displays when the item is clicked:
 title: HER
