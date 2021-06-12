@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: 
-    text: " <br> <br> <br> Dream  Perfect  Regime"   
+    text: " <br> <br> <br> <br> Dream  Perfect  Regime"   
 
   services:
     title: "ABOUT"
@@ -89,7 +89,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/highr.jpg
 
   team:
-    title: "DPR"
+    title: "CREATORS"
     text: " "
     subtext: 
     section: team
