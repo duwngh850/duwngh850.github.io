@@ -75,18 +75,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "dpr"
-        url: https://dreamperfectregime.com/
-        logo: assets/img/clients/dpr.jpg
-      - title: "jazzyfact"
-        url: https://people.search.naver.com/search.naver?where=nexearch&query=%EC%9E%AC%EC%A7%80%ED%8C%A9%ED%8A%B8&sm=tab_etc&ie=utf8&key=PeopleService&os=192497
-        logo: assets/img/clients/jazzyfact.jpg
-      - title: "aomg"
-        url: https://www.aomgofficial.com/
-        logo: assets/img/clients/aomg.jpg
-      - title: "highrmugic"
-        url: https://h1ghrstore.kr/home
-        logo: assets/img/clients/highr.jpg
+      - title:
+        url:
+        logo: 
+      - title: 
+        url: 
+        logo: 
+      - title: 
+        url:
+        logo:
+      - title: 
+        url: 
+        logo: 
 
   team:
     title: "CREATORS"
