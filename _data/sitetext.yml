@@ -30,7 +30,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "VISUALS"
-    text: "SHOW BUYING ALBUM <br> 사진을 클릭해보세요!" 
+    text: "SHOW BUYING ALBUM <br> <br> Click picture! <br> 사진을 클릭해보세요!" 
     section: VISUALS
     closebutton: "Close"  
 
