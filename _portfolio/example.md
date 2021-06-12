@@ -8,7 +8,7 @@ caption: #what displays in the portfolio grid:
 title: HER
 subtitle: DPR LIVE
 image: assets/img/portfolio/04-thumbnail.jpg
-alt: image alt text
+alt:
 
 ---
 
