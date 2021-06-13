@@ -7,7 +7,7 @@ caption: #what displays in the portfolio grid:
 #what displays when the item is clicked:
 title: HER
 subtitle: DPR LIVE
-image: assets/img/portfolio/04-thumbnail.jpg
+image: assets/img/portfolio/01-thumbnail.jpg
 alt:
 
 ---
