@@ -1,5 +1,5 @@
 ---
-title: Moodswings <br> In This Order 
+title: Moodswings In This Order 
 subtitle: DPR IAN
 image: assets/img/portfolio/03-thumbnail.jpg
 alt: Keep Exploring
