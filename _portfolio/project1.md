@@ -8,7 +8,7 @@ caption:
   title: DPR LIVE - IS ANYBODY OUT THERE?
   subtitle: "Tracklist <br> S.O.S (Title) <br> KISS ME (Title) <br> NEON (Title) <br> LEGACY (Title) <br> HERE GOES NO THING <br> GERONIMO <br> TO WHOEVER <br> OUT OF CONTROL <br> 
           DISCONNECT <br> OH GIRL <br> NO RESCUE NEEDED"
-  thumbnail: assets/img/portfolio/05-thumnail.jpg 
+  thumbnail: assets/img/portfolio/05-thumbnail.jpg
 
 ---
 
