@@ -15,4 +15,4 @@ caption:
 {:.list-inline}
 - Musician : DPR IAN
 - Purchase Date : 2021년 3월 24일 
-- Contents : DPR IAN의 EP <br> 앨범이 굉장히 독특한데 겉면은 온도에 따라 색이변한다 <br> 안쪽에는 시그니쳐인 깨진 거울과 눈알CD가 들어있는 것을 볼 수 있다 <br> 뮤비 또한 굉장히 감각적이며 앞으로의 행보도 기대된다
+- Contents : DPR IAN의 첫 EP <br> 앨범이 굉장히 독특한데 겉면은 온도에 따라 색이변한다 <br> 안쪽에는 시그니쳐인 깨진 거울과 눈알CD가 들어있는 것을 볼 수 있다 <br> 뮤비 또한 굉장히 감각적이며 앞으로의 행보도 기대된다
